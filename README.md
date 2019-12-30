@@ -8,4 +8,4 @@ Official golang implementation of the POVC protocol. This project aim to build a
 
 [Main Chain](https://github.com/TesraSupernet/Tesra)
 
-[docs](https://github.com/ethereum/go-ethereum)
+[Docs](https://github.com/ethereum/go-ethereum)
